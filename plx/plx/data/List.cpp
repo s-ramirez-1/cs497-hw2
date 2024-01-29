@@ -45,8 +45,10 @@ namespace PLX {
     }
 
     bool List::boolValue() const {
-        // TODO
-        return false;
+        if (this == GLOBALS->EmptyList()) {
+            return false;
+        }
+        return true;
     }
 
     bool List::equals(const Object* other) const {
@@ -100,8 +102,13 @@ namespace PLX {
     }
 
     int List::length() const {
-        // TODO
-        return -1;
+        if (!boolValue()) {
+            return 0;
+        } else if (_rest->isA(TypeId::D_LIST)) {
+            List* restList = static_cast<List*>(_rest);
+            return restList->length() + 1;
+        }
+        return 2;
     }
 
     bool List::length(int& len) {

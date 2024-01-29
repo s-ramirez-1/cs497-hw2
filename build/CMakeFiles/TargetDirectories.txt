@@ -1,0 +1,5 @@
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles/plx_lib.dir
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles/plx.dir
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles/plx-test.dir
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles/rebuild_cache.dir

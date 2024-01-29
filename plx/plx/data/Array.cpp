@@ -25,12 +25,18 @@ namespace PLX {
     Array::Array(std::initializer_list<Object*> elems)
         : Array(elems.size())
     {
-        // TODO
+    int index = 0;
+    for (Object* elem : elems) {
+        _elems[index++] = elem;
+    } 
     }
 
     bool Array::boolValue() const {
-        // TODO
+        if (_elems.size() == 0) {
         return false;
+        } else {
+        return true;
+        }
     }
 
     bool Array::equals(const Object* other) const {
@@ -41,8 +47,16 @@ namespace PLX {
             return false;
         }
         const Array* otherArray = static_cast<const Array*>(other);
-        // TODO
+        if (this->_elems.size() != otherArray->_elems.size()) {
         return false;
+        }
+
+        for (size_t i = 0; i < otherArray->_elems.size(); i++) {
+            if (this[i] != otherArray[i]) {
+            return false;
+            }
+         }
+        return true;
     }
 
     bool Array::get(int index, Object*& value) {
@@ -52,8 +66,8 @@ namespace PLX {
                 new Array({new Integer(index), this})
             );
         }
-        // TODO
-        return false;
+        value = _elems[index]; 
+        return true;
     }
 
     bool Array::hashCode(HashCode& hashCode) {
@@ -90,16 +104,16 @@ namespace PLX {
     }
 
     bool Array::length(int& len) {
-        // TODO
-        return false;
+        len = _elems.size();
+        return true;
     }
 
     bool Array::set(int index, Object* newElem) {
         if (index < 0 || index >= static_cast<int>(_elems.size())) {
             return false;
         }
-        // TODO
-        return false;
+        _elems[index] = newElem;
+        return true;
     }
 
     void Array::showOn(std::ostream& ostream) const {
