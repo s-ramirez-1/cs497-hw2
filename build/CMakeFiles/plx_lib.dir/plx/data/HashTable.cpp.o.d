@@ -1,5 +1,5 @@
 CMakeFiles/plx_lib.dir/plx/data/HashTable.cpp.o: \
-  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/data/HashTable.cpp \
+  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/HashTable.cpp \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/cassert \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/x86_64-linux-gnu/c++/11/bits/c++config.h \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -57,13 +57,13 @@ CMakeFiles/plx_lib.dir/plx/data/HashTable.cpp.o: \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/bits/enable_special_members.h \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/bits/unordered_map.h \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/bits/erase_if.h \
-  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/data/Array.hpp \
+  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/Array.hpp \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/vector \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/bits/stl_uninitialized.h \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/bits/stl_vector.h \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/bits/stl_bvector.h \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/bits/vector.tcc \
-  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/object/Object.hpp \
+  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/object/Object.hpp \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/iostream \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/ostream \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/ios \
@@ -191,13 +191,13 @@ CMakeFiles/plx_lib.dir/plx/data/HashTable.cpp.o: \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/bits/stl_list.h \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/bits/allocated_ptr.h \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/bits/list.tcc \
-  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/object/HashCode.hpp \
-  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/object/TypeIds.hpp \
+  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/object/HashCode.hpp \
+  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/object/TypeIds.hpp \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/map \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/bits/stl_tree.h \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/bits/stl_map.h \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/bits/stl_multimap.h \
-  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/data/HashTable.hpp \
-  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/data/List.hpp \
-  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/data/Triple.hpp \
-  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/object/Globals.hpp
+  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/HashTable.hpp \
+  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/List.hpp \
+  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/Triple.hpp \
+  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/object/Globals.hpp

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/bin/plx-test"
-  "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/bin/plx-test.pdb"
+  "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx-test"
+  "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx-test.pdb"
   "CMakeFiles/plx-test.dir/plx/data/Array.test.cpp.o"
   "CMakeFiles/plx-test.dir/plx/data/Array.test.cpp.o.d"
   "CMakeFiles/plx-test.dir/plx/data/HashTable.test.cpp.o"

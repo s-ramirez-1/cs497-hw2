@@ -1,6 +1,6 @@
 CMakeFiles/plx_lib.dir/plx/literal/Symbol.cpp.o: \
-  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/literal/Symbol.cpp \
-  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/data/HashTable.hpp \
+  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/literal/Symbol.cpp \
+  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/HashTable.hpp \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/unordered_map \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/type_traits \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -56,7 +56,7 @@ CMakeFiles/plx_lib.dir/plx/literal/Symbol.cpp.o: \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/bits/enable_special_members.h \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/bits/unordered_map.h \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/bits/erase_if.h \
-  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/object/Object.hpp \
+  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/object/Object.hpp \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/cassert \
   /usr/include/assert.h \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/iostream \
@@ -186,13 +186,13 @@ CMakeFiles/plx_lib.dir/plx/literal/Symbol.cpp.o: \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/bits/stl_list.h \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/bits/allocated_ptr.h \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/bits/list.tcc \
-  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/object/HashCode.hpp \
-  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/object/TypeIds.hpp \
+  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/object/HashCode.hpp \
+  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/object/TypeIds.hpp \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/map \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/bits/stl_tree.h \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/bits/stl_map.h \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/bits/stl_multimap.h \
-  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/literal/String.hpp \
-  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/literal/Symbol.hpp \
-  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/object/Symbolic.hpp \
-  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/object/Globals.hpp
+  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/literal/String.hpp \
+  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/literal/Symbol.hpp \
+  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/object/Symbolic.hpp \
+  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/object/Globals.hpp

@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx"
+CMAKE_SOURCE_DIR = /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build"
+CMAKE_BINARY_DIR = /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/plx.dir/depend.make
@@ -70,18 +70,18 @@ include CMakeFiles/plx.dir/progress.make
 include CMakeFiles/plx.dir/flags.make
 
 CMakeFiles/plx.dir/plx/main.cpp.o: CMakeFiles/plx.dir/flags.make
-CMakeFiles/plx.dir/plx/main.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/main.cpp
+CMakeFiles/plx.dir/plx/main.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/main.cpp
 CMakeFiles/plx.dir/plx/main.cpp.o: CMakeFiles/plx.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/plx.dir/plx/main.cpp.o"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx.dir/plx/main.cpp.o -MF CMakeFiles/plx.dir/plx/main.cpp.o.d -o CMakeFiles/plx.dir/plx/main.cpp.o -c "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/plx.dir/plx/main.cpp.o"
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx.dir/plx/main.cpp.o -MF CMakeFiles/plx.dir/plx/main.cpp.o.d -o CMakeFiles/plx.dir/plx/main.cpp.o -c /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/main.cpp
 
 CMakeFiles/plx.dir/plx/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/plx.dir/plx/main.cpp.i"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/main.cpp" > CMakeFiles/plx.dir/plx/main.cpp.i
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/main.cpp > CMakeFiles/plx.dir/plx/main.cpp.i
 
 CMakeFiles/plx.dir/plx/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/plx.dir/plx/main.cpp.s"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/main.cpp" -o CMakeFiles/plx.dir/plx/main.cpp.s
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/main.cpp -o CMakeFiles/plx.dir/plx/main.cpp.s
 
 # Object files for target plx
 plx_OBJECTS = \
@@ -90,15 +90,15 @@ plx_OBJECTS = \
 # External object files for target plx
 plx_EXTERNAL_OBJECTS =
 
-/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx: CMakeFiles/plx.dir/plx/main.cpp.o
-/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx: CMakeFiles/plx.dir/build.make
-/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx: libplx_lib.a
-/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx: CMakeFiles/plx.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable \"/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/bin/plx\""
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx: CMakeFiles/plx.dir/plx/main.cpp.o
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx: CMakeFiles/plx.dir/build.make
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx: libplx_lib.a
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx: CMakeFiles/plx.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/plx.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/plx.dir/build: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx
+CMakeFiles/plx.dir/build: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx
 .PHONY : CMakeFiles/plx.dir/build
 
 CMakeFiles/plx.dir/clean:
@@ -106,6 +106,6 @@ CMakeFiles/plx.dir/clean:
 .PHONY : CMakeFiles/plx.dir/clean
 
 CMakeFiles/plx.dir/depend:
-	cd "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx" "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx" "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build" "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build" "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles/plx.dir/DependInfo.cmake" --color=$(COLOR)
+	cd /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build/CMakeFiles/plx.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/plx.dir/depend
 

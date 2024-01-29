@@ -1,5 +1,5 @@
 CMakeFiles/plx-test.dir/plx/object/Globals.test.cpp.o: \
-  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/object/Globals.test.cpp \
+  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/object/Globals.test.cpp \
   /usr/include/gtest/gtest.h \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/cstddef \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/11/../../../../include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -294,4 +294,4 @@ CMakeFiles/plx-test.dir/plx/object/Globals.test.cpp.o: \
   /usr/include/assert.h /usr/include/gtest/gtest-test-part.h \
   /usr/include/gtest/gtest_prod.h /usr/include/gtest/gtest-typed-test.h \
   /usr/include/gtest/gtest_pred_impl.h \
-  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/object/Globals.hpp
+  /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/object/Globals.hpp

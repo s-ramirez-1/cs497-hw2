@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/clang++-14
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I"/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx"
+CXX_INCLUDES = -I/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx
 
 CXX_FLAGS = -O0 -g -ggdb -Wall -Wextra -pedantic -std=c++14 -gdwarf-4 -DGTEST_HAS_PTHREAD=1 -std=gnu++14
 

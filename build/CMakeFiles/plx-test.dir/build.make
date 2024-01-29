@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx"
+CMAKE_SOURCE_DIR = /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build"
+CMAKE_BINARY_DIR = /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/plx-test.dir/depend.make
@@ -70,228 +70,228 @@ include CMakeFiles/plx-test.dir/progress.make
 include CMakeFiles/plx-test.dir/flags.make
 
 CMakeFiles/plx-test.dir/plx/data/Array.test.cpp.o: CMakeFiles/plx-test.dir/flags.make
-CMakeFiles/plx-test.dir/plx/data/Array.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/data/Array.test.cpp
+CMakeFiles/plx-test.dir/plx/data/Array.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/Array.test.cpp
 CMakeFiles/plx-test.dir/plx/data/Array.test.cpp.o: CMakeFiles/plx-test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/plx-test.dir/plx/data/Array.test.cpp.o"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/data/Array.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/data/Array.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/data/Array.test.cpp.o -c "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/data/Array.test.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/plx-test.dir/plx/data/Array.test.cpp.o"
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/data/Array.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/data/Array.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/data/Array.test.cpp.o -c /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/Array.test.cpp
 
 CMakeFiles/plx-test.dir/plx/data/Array.test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/plx-test.dir/plx/data/Array.test.cpp.i"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/data/Array.test.cpp" > CMakeFiles/plx-test.dir/plx/data/Array.test.cpp.i
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/Array.test.cpp > CMakeFiles/plx-test.dir/plx/data/Array.test.cpp.i
 
 CMakeFiles/plx-test.dir/plx/data/Array.test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/plx-test.dir/plx/data/Array.test.cpp.s"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/data/Array.test.cpp" -o CMakeFiles/plx-test.dir/plx/data/Array.test.cpp.s
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/Array.test.cpp -o CMakeFiles/plx-test.dir/plx/data/Array.test.cpp.s
 
 CMakeFiles/plx-test.dir/plx/data/HashTable.test.cpp.o: CMakeFiles/plx-test.dir/flags.make
-CMakeFiles/plx-test.dir/plx/data/HashTable.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/data/HashTable.test.cpp
+CMakeFiles/plx-test.dir/plx/data/HashTable.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/HashTable.test.cpp
 CMakeFiles/plx-test.dir/plx/data/HashTable.test.cpp.o: CMakeFiles/plx-test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/plx-test.dir/plx/data/HashTable.test.cpp.o"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/data/HashTable.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/data/HashTable.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/data/HashTable.test.cpp.o -c "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/data/HashTable.test.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/plx-test.dir/plx/data/HashTable.test.cpp.o"
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/data/HashTable.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/data/HashTable.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/data/HashTable.test.cpp.o -c /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/HashTable.test.cpp
 
 CMakeFiles/plx-test.dir/plx/data/HashTable.test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/plx-test.dir/plx/data/HashTable.test.cpp.i"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/data/HashTable.test.cpp" > CMakeFiles/plx-test.dir/plx/data/HashTable.test.cpp.i
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/HashTable.test.cpp > CMakeFiles/plx-test.dir/plx/data/HashTable.test.cpp.i
 
 CMakeFiles/plx-test.dir/plx/data/HashTable.test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/plx-test.dir/plx/data/HashTable.test.cpp.s"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/data/HashTable.test.cpp" -o CMakeFiles/plx-test.dir/plx/data/HashTable.test.cpp.s
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/HashTable.test.cpp -o CMakeFiles/plx-test.dir/plx/data/HashTable.test.cpp.s
 
 CMakeFiles/plx-test.dir/plx/data/List.test.cpp.o: CMakeFiles/plx-test.dir/flags.make
-CMakeFiles/plx-test.dir/plx/data/List.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/data/List.test.cpp
+CMakeFiles/plx-test.dir/plx/data/List.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/List.test.cpp
 CMakeFiles/plx-test.dir/plx/data/List.test.cpp.o: CMakeFiles/plx-test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/plx-test.dir/plx/data/List.test.cpp.o"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/data/List.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/data/List.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/data/List.test.cpp.o -c "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/data/List.test.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/plx-test.dir/plx/data/List.test.cpp.o"
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/data/List.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/data/List.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/data/List.test.cpp.o -c /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/List.test.cpp
 
 CMakeFiles/plx-test.dir/plx/data/List.test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/plx-test.dir/plx/data/List.test.cpp.i"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/data/List.test.cpp" > CMakeFiles/plx-test.dir/plx/data/List.test.cpp.i
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/List.test.cpp > CMakeFiles/plx-test.dir/plx/data/List.test.cpp.i
 
 CMakeFiles/plx-test.dir/plx/data/List.test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/plx-test.dir/plx/data/List.test.cpp.s"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/data/List.test.cpp" -o CMakeFiles/plx-test.dir/plx/data/List.test.cpp.s
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/List.test.cpp -o CMakeFiles/plx-test.dir/plx/data/List.test.cpp.s
 
 CMakeFiles/plx-test.dir/plx/data/Queue.test.cpp.o: CMakeFiles/plx-test.dir/flags.make
-CMakeFiles/plx-test.dir/plx/data/Queue.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/data/Queue.test.cpp
+CMakeFiles/plx-test.dir/plx/data/Queue.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/Queue.test.cpp
 CMakeFiles/plx-test.dir/plx/data/Queue.test.cpp.o: CMakeFiles/plx-test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/plx-test.dir/plx/data/Queue.test.cpp.o"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/data/Queue.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/data/Queue.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/data/Queue.test.cpp.o -c "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/data/Queue.test.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/plx-test.dir/plx/data/Queue.test.cpp.o"
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/data/Queue.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/data/Queue.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/data/Queue.test.cpp.o -c /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/Queue.test.cpp
 
 CMakeFiles/plx-test.dir/plx/data/Queue.test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/plx-test.dir/plx/data/Queue.test.cpp.i"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/data/Queue.test.cpp" > CMakeFiles/plx-test.dir/plx/data/Queue.test.cpp.i
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/Queue.test.cpp > CMakeFiles/plx-test.dir/plx/data/Queue.test.cpp.i
 
 CMakeFiles/plx-test.dir/plx/data/Queue.test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/plx-test.dir/plx/data/Queue.test.cpp.s"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/data/Queue.test.cpp" -o CMakeFiles/plx-test.dir/plx/data/Queue.test.cpp.s
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/Queue.test.cpp -o CMakeFiles/plx-test.dir/plx/data/Queue.test.cpp.s
 
 CMakeFiles/plx-test.dir/plx/data/Triple.test.cpp.o: CMakeFiles/plx-test.dir/flags.make
-CMakeFiles/plx-test.dir/plx/data/Triple.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/data/Triple.test.cpp
+CMakeFiles/plx-test.dir/plx/data/Triple.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/Triple.test.cpp
 CMakeFiles/plx-test.dir/plx/data/Triple.test.cpp.o: CMakeFiles/plx-test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/plx-test.dir/plx/data/Triple.test.cpp.o"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/data/Triple.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/data/Triple.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/data/Triple.test.cpp.o -c "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/data/Triple.test.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/plx-test.dir/plx/data/Triple.test.cpp.o"
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/data/Triple.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/data/Triple.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/data/Triple.test.cpp.o -c /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/Triple.test.cpp
 
 CMakeFiles/plx-test.dir/plx/data/Triple.test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/plx-test.dir/plx/data/Triple.test.cpp.i"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/data/Triple.test.cpp" > CMakeFiles/plx-test.dir/plx/data/Triple.test.cpp.i
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/Triple.test.cpp > CMakeFiles/plx-test.dir/plx/data/Triple.test.cpp.i
 
 CMakeFiles/plx-test.dir/plx/data/Triple.test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/plx-test.dir/plx/data/Triple.test.cpp.s"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/data/Triple.test.cpp" -o CMakeFiles/plx-test.dir/plx/data/Triple.test.cpp.s
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/data/Triple.test.cpp -o CMakeFiles/plx-test.dir/plx/data/Triple.test.cpp.s
 
 CMakeFiles/plx-test.dir/plx/expr/Identifier.test.cpp.o: CMakeFiles/plx-test.dir/flags.make
-CMakeFiles/plx-test.dir/plx/expr/Identifier.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/expr/Identifier.test.cpp
+CMakeFiles/plx-test.dir/plx/expr/Identifier.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/expr/Identifier.test.cpp
 CMakeFiles/plx-test.dir/plx/expr/Identifier.test.cpp.o: CMakeFiles/plx-test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/plx-test.dir/plx/expr/Identifier.test.cpp.o"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/expr/Identifier.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/expr/Identifier.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/expr/Identifier.test.cpp.o -c "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/expr/Identifier.test.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/plx-test.dir/plx/expr/Identifier.test.cpp.o"
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/expr/Identifier.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/expr/Identifier.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/expr/Identifier.test.cpp.o -c /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/expr/Identifier.test.cpp
 
 CMakeFiles/plx-test.dir/plx/expr/Identifier.test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/plx-test.dir/plx/expr/Identifier.test.cpp.i"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/expr/Identifier.test.cpp" > CMakeFiles/plx-test.dir/plx/expr/Identifier.test.cpp.i
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/expr/Identifier.test.cpp > CMakeFiles/plx-test.dir/plx/expr/Identifier.test.cpp.i
 
 CMakeFiles/plx-test.dir/plx/expr/Identifier.test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/plx-test.dir/plx/expr/Identifier.test.cpp.s"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/expr/Identifier.test.cpp" -o CMakeFiles/plx-test.dir/plx/expr/Identifier.test.cpp.s
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/expr/Identifier.test.cpp -o CMakeFiles/plx-test.dir/plx/expr/Identifier.test.cpp.s
 
 CMakeFiles/plx-test.dir/plx/literal/Boolean.test.cpp.o: CMakeFiles/plx-test.dir/flags.make
-CMakeFiles/plx-test.dir/plx/literal/Boolean.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/literal/Boolean.test.cpp
+CMakeFiles/plx-test.dir/plx/literal/Boolean.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/literal/Boolean.test.cpp
 CMakeFiles/plx-test.dir/plx/literal/Boolean.test.cpp.o: CMakeFiles/plx-test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/plx-test.dir/plx/literal/Boolean.test.cpp.o"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/literal/Boolean.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/literal/Boolean.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/literal/Boolean.test.cpp.o -c "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/literal/Boolean.test.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/plx-test.dir/plx/literal/Boolean.test.cpp.o"
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/literal/Boolean.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/literal/Boolean.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/literal/Boolean.test.cpp.o -c /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/literal/Boolean.test.cpp
 
 CMakeFiles/plx-test.dir/plx/literal/Boolean.test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/plx-test.dir/plx/literal/Boolean.test.cpp.i"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/literal/Boolean.test.cpp" > CMakeFiles/plx-test.dir/plx/literal/Boolean.test.cpp.i
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/literal/Boolean.test.cpp > CMakeFiles/plx-test.dir/plx/literal/Boolean.test.cpp.i
 
 CMakeFiles/plx-test.dir/plx/literal/Boolean.test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/plx-test.dir/plx/literal/Boolean.test.cpp.s"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/literal/Boolean.test.cpp" -o CMakeFiles/plx-test.dir/plx/literal/Boolean.test.cpp.s
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/literal/Boolean.test.cpp -o CMakeFiles/plx-test.dir/plx/literal/Boolean.test.cpp.s
 
 CMakeFiles/plx-test.dir/plx/literal/Integer.test.cpp.o: CMakeFiles/plx-test.dir/flags.make
-CMakeFiles/plx-test.dir/plx/literal/Integer.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/literal/Integer.test.cpp
+CMakeFiles/plx-test.dir/plx/literal/Integer.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/literal/Integer.test.cpp
 CMakeFiles/plx-test.dir/plx/literal/Integer.test.cpp.o: CMakeFiles/plx-test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/plx-test.dir/plx/literal/Integer.test.cpp.o"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/literal/Integer.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/literal/Integer.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/literal/Integer.test.cpp.o -c "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/literal/Integer.test.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/plx-test.dir/plx/literal/Integer.test.cpp.o"
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/literal/Integer.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/literal/Integer.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/literal/Integer.test.cpp.o -c /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/literal/Integer.test.cpp
 
 CMakeFiles/plx-test.dir/plx/literal/Integer.test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/plx-test.dir/plx/literal/Integer.test.cpp.i"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/literal/Integer.test.cpp" > CMakeFiles/plx-test.dir/plx/literal/Integer.test.cpp.i
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/literal/Integer.test.cpp > CMakeFiles/plx-test.dir/plx/literal/Integer.test.cpp.i
 
 CMakeFiles/plx-test.dir/plx/literal/Integer.test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/plx-test.dir/plx/literal/Integer.test.cpp.s"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/literal/Integer.test.cpp" -o CMakeFiles/plx-test.dir/plx/literal/Integer.test.cpp.s
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/literal/Integer.test.cpp -o CMakeFiles/plx-test.dir/plx/literal/Integer.test.cpp.s
 
 CMakeFiles/plx-test.dir/plx/literal/Nil.test.cpp.o: CMakeFiles/plx-test.dir/flags.make
-CMakeFiles/plx-test.dir/plx/literal/Nil.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/literal/Nil.test.cpp
+CMakeFiles/plx-test.dir/plx/literal/Nil.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/literal/Nil.test.cpp
 CMakeFiles/plx-test.dir/plx/literal/Nil.test.cpp.o: CMakeFiles/plx-test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/plx-test.dir/plx/literal/Nil.test.cpp.o"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/literal/Nil.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/literal/Nil.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/literal/Nil.test.cpp.o -c "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/literal/Nil.test.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/plx-test.dir/plx/literal/Nil.test.cpp.o"
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/literal/Nil.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/literal/Nil.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/literal/Nil.test.cpp.o -c /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/literal/Nil.test.cpp
 
 CMakeFiles/plx-test.dir/plx/literal/Nil.test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/plx-test.dir/plx/literal/Nil.test.cpp.i"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/literal/Nil.test.cpp" > CMakeFiles/plx-test.dir/plx/literal/Nil.test.cpp.i
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/literal/Nil.test.cpp > CMakeFiles/plx-test.dir/plx/literal/Nil.test.cpp.i
 
 CMakeFiles/plx-test.dir/plx/literal/Nil.test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/plx-test.dir/plx/literal/Nil.test.cpp.s"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/literal/Nil.test.cpp" -o CMakeFiles/plx-test.dir/plx/literal/Nil.test.cpp.s
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/literal/Nil.test.cpp -o CMakeFiles/plx-test.dir/plx/literal/Nil.test.cpp.s
 
 CMakeFiles/plx-test.dir/plx/literal/String.test.cpp.o: CMakeFiles/plx-test.dir/flags.make
-CMakeFiles/plx-test.dir/plx/literal/String.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/literal/String.test.cpp
+CMakeFiles/plx-test.dir/plx/literal/String.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/literal/String.test.cpp
 CMakeFiles/plx-test.dir/plx/literal/String.test.cpp.o: CMakeFiles/plx-test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/plx-test.dir/plx/literal/String.test.cpp.o"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/literal/String.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/literal/String.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/literal/String.test.cpp.o -c "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/literal/String.test.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/plx-test.dir/plx/literal/String.test.cpp.o"
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/literal/String.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/literal/String.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/literal/String.test.cpp.o -c /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/literal/String.test.cpp
 
 CMakeFiles/plx-test.dir/plx/literal/String.test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/plx-test.dir/plx/literal/String.test.cpp.i"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/literal/String.test.cpp" > CMakeFiles/plx-test.dir/plx/literal/String.test.cpp.i
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/literal/String.test.cpp > CMakeFiles/plx-test.dir/plx/literal/String.test.cpp.i
 
 CMakeFiles/plx-test.dir/plx/literal/String.test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/plx-test.dir/plx/literal/String.test.cpp.s"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/literal/String.test.cpp" -o CMakeFiles/plx-test.dir/plx/literal/String.test.cpp.s
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/literal/String.test.cpp -o CMakeFiles/plx-test.dir/plx/literal/String.test.cpp.s
 
 CMakeFiles/plx-test.dir/plx/literal/Symbol.test.cpp.o: CMakeFiles/plx-test.dir/flags.make
-CMakeFiles/plx-test.dir/plx/literal/Symbol.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/literal/Symbol.test.cpp
+CMakeFiles/plx-test.dir/plx/literal/Symbol.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/literal/Symbol.test.cpp
 CMakeFiles/plx-test.dir/plx/literal/Symbol.test.cpp.o: CMakeFiles/plx-test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/plx-test.dir/plx/literal/Symbol.test.cpp.o"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/literal/Symbol.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/literal/Symbol.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/literal/Symbol.test.cpp.o -c "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/literal/Symbol.test.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/plx-test.dir/plx/literal/Symbol.test.cpp.o"
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/literal/Symbol.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/literal/Symbol.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/literal/Symbol.test.cpp.o -c /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/literal/Symbol.test.cpp
 
 CMakeFiles/plx-test.dir/plx/literal/Symbol.test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/plx-test.dir/plx/literal/Symbol.test.cpp.i"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/literal/Symbol.test.cpp" > CMakeFiles/plx-test.dir/plx/literal/Symbol.test.cpp.i
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/literal/Symbol.test.cpp > CMakeFiles/plx-test.dir/plx/literal/Symbol.test.cpp.i
 
 CMakeFiles/plx-test.dir/plx/literal/Symbol.test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/plx-test.dir/plx/literal/Symbol.test.cpp.s"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/literal/Symbol.test.cpp" -o CMakeFiles/plx-test.dir/plx/literal/Symbol.test.cpp.s
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/literal/Symbol.test.cpp -o CMakeFiles/plx-test.dir/plx/literal/Symbol.test.cpp.s
 
 CMakeFiles/plx-test.dir/plx/object/Globals.test.cpp.o: CMakeFiles/plx-test.dir/flags.make
-CMakeFiles/plx-test.dir/plx/object/Globals.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/object/Globals.test.cpp
+CMakeFiles/plx-test.dir/plx/object/Globals.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/object/Globals.test.cpp
 CMakeFiles/plx-test.dir/plx/object/Globals.test.cpp.o: CMakeFiles/plx-test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/plx-test.dir/plx/object/Globals.test.cpp.o"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/object/Globals.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/object/Globals.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/object/Globals.test.cpp.o -c "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/object/Globals.test.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/plx-test.dir/plx/object/Globals.test.cpp.o"
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/object/Globals.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/object/Globals.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/object/Globals.test.cpp.o -c /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/object/Globals.test.cpp
 
 CMakeFiles/plx-test.dir/plx/object/Globals.test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/plx-test.dir/plx/object/Globals.test.cpp.i"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/object/Globals.test.cpp" > CMakeFiles/plx-test.dir/plx/object/Globals.test.cpp.i
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/object/Globals.test.cpp > CMakeFiles/plx-test.dir/plx/object/Globals.test.cpp.i
 
 CMakeFiles/plx-test.dir/plx/object/Globals.test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/plx-test.dir/plx/object/Globals.test.cpp.s"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/object/Globals.test.cpp" -o CMakeFiles/plx-test.dir/plx/object/Globals.test.cpp.s
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/object/Globals.test.cpp -o CMakeFiles/plx-test.dir/plx/object/Globals.test.cpp.s
 
 CMakeFiles/plx-test.dir/plx/object/Object.test.cpp.o: CMakeFiles/plx-test.dir/flags.make
-CMakeFiles/plx-test.dir/plx/object/Object.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/plx/object/Object.test.cpp
+CMakeFiles/plx-test.dir/plx/object/Object.test.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/object/Object.test.cpp
 CMakeFiles/plx-test.dir/plx/object/Object.test.cpp.o: CMakeFiles/plx-test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/plx-test.dir/plx/object/Object.test.cpp.o"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/object/Object.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/object/Object.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/object/Object.test.cpp.o -c "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/object/Object.test.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/plx-test.dir/plx/object/Object.test.cpp.o"
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/plx/object/Object.test.cpp.o -MF CMakeFiles/plx-test.dir/plx/object/Object.test.cpp.o.d -o CMakeFiles/plx-test.dir/plx/object/Object.test.cpp.o -c /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/object/Object.test.cpp
 
 CMakeFiles/plx-test.dir/plx/object/Object.test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/plx-test.dir/plx/object/Object.test.cpp.i"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/object/Object.test.cpp" > CMakeFiles/plx-test.dir/plx/object/Object.test.cpp.i
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/object/Object.test.cpp > CMakeFiles/plx-test.dir/plx/object/Object.test.cpp.i
 
 CMakeFiles/plx-test.dir/plx/object/Object.test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/plx-test.dir/plx/object/Object.test.cpp.s"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/plx/object/Object.test.cpp" -o CMakeFiles/plx-test.dir/plx/object/Object.test.cpp.s
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/plx/object/Object.test.cpp -o CMakeFiles/plx-test.dir/plx/object/Object.test.cpp.s
 
 CMakeFiles/plx-test.dir/test/PlxTestFixture.cpp.o: CMakeFiles/plx-test.dir/flags.make
-CMakeFiles/plx-test.dir/test/PlxTestFixture.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/test/PlxTestFixture.cpp
+CMakeFiles/plx-test.dir/test/PlxTestFixture.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/test/PlxTestFixture.cpp
 CMakeFiles/plx-test.dir/test/PlxTestFixture.cpp.o: CMakeFiles/plx-test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/plx-test.dir/test/PlxTestFixture.cpp.o"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/test/PlxTestFixture.cpp.o -MF CMakeFiles/plx-test.dir/test/PlxTestFixture.cpp.o.d -o CMakeFiles/plx-test.dir/test/PlxTestFixture.cpp.o -c "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/test/PlxTestFixture.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/plx-test.dir/test/PlxTestFixture.cpp.o"
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/test/PlxTestFixture.cpp.o -MF CMakeFiles/plx-test.dir/test/PlxTestFixture.cpp.o.d -o CMakeFiles/plx-test.dir/test/PlxTestFixture.cpp.o -c /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/test/PlxTestFixture.cpp
 
 CMakeFiles/plx-test.dir/test/PlxTestFixture.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/plx-test.dir/test/PlxTestFixture.cpp.i"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/test/PlxTestFixture.cpp" > CMakeFiles/plx-test.dir/test/PlxTestFixture.cpp.i
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/test/PlxTestFixture.cpp > CMakeFiles/plx-test.dir/test/PlxTestFixture.cpp.i
 
 CMakeFiles/plx-test.dir/test/PlxTestFixture.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/plx-test.dir/test/PlxTestFixture.cpp.s"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/test/PlxTestFixture.cpp" -o CMakeFiles/plx-test.dir/test/PlxTestFixture.cpp.s
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/test/PlxTestFixture.cpp -o CMakeFiles/plx-test.dir/test/PlxTestFixture.cpp.s
 
 CMakeFiles/plx-test.dir/test/test_main.cpp.o: CMakeFiles/plx-test.dir/flags.make
-CMakeFiles/plx-test.dir/test/test_main.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/test/test_main.cpp
+CMakeFiles/plx-test.dir/test/test_main.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/test/test_main.cpp
 CMakeFiles/plx-test.dir/test/test_main.cpp.o: CMakeFiles/plx-test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/plx-test.dir/test/test_main.cpp.o"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/test/test_main.cpp.o -MF CMakeFiles/plx-test.dir/test/test_main.cpp.o.d -o CMakeFiles/plx-test.dir/test/test_main.cpp.o -c "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/test/test_main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/plx-test.dir/test/test_main.cpp.o"
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/test/test_main.cpp.o -MF CMakeFiles/plx-test.dir/test/test_main.cpp.o.d -o CMakeFiles/plx-test.dir/test/test_main.cpp.o -c /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/test/test_main.cpp
 
 CMakeFiles/plx-test.dir/test/test_main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/plx-test.dir/test/test_main.cpp.i"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/test/test_main.cpp" > CMakeFiles/plx-test.dir/test/test_main.cpp.i
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/test/test_main.cpp > CMakeFiles/plx-test.dir/test/test_main.cpp.i
 
 CMakeFiles/plx-test.dir/test/test_main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/plx-test.dir/test/test_main.cpp.s"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/test/test_main.cpp" -o CMakeFiles/plx-test.dir/test/test_main.cpp.s
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/test/test_main.cpp -o CMakeFiles/plx-test.dir/test/test_main.cpp.s
 
 CMakeFiles/plx-test.dir/test/TestUtils.cpp.o: CMakeFiles/plx-test.dir/flags.make
-CMakeFiles/plx-test.dir/test/TestUtils.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/plx/test/TestUtils.cpp
+CMakeFiles/plx-test.dir/test/TestUtils.cpp.o: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/test/TestUtils.cpp
 CMakeFiles/plx-test.dir/test/TestUtils.cpp.o: CMakeFiles/plx-test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/plx-test.dir/test/TestUtils.cpp.o"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/test/TestUtils.cpp.o -MF CMakeFiles/plx-test.dir/test/TestUtils.cpp.o.d -o CMakeFiles/plx-test.dir/test/TestUtils.cpp.o -c "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/test/TestUtils.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/plx-test.dir/test/TestUtils.cpp.o"
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/plx-test.dir/test/TestUtils.cpp.o -MF CMakeFiles/plx-test.dir/test/TestUtils.cpp.o.d -o CMakeFiles/plx-test.dir/test/TestUtils.cpp.o -c /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/test/TestUtils.cpp
 
 CMakeFiles/plx-test.dir/test/TestUtils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/plx-test.dir/test/TestUtils.cpp.i"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/test/TestUtils.cpp" > CMakeFiles/plx-test.dir/test/TestUtils.cpp.i
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/test/TestUtils.cpp > CMakeFiles/plx-test.dir/test/TestUtils.cpp.i
 
 CMakeFiles/plx-test.dir/test/TestUtils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/plx-test.dir/test/TestUtils.cpp.s"
-	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx/test/TestUtils.cpp" -o CMakeFiles/plx-test.dir/test/TestUtils.cpp.s
+	/usr/bin/clang++-14 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx/test/TestUtils.cpp -o CMakeFiles/plx-test.dir/test/TestUtils.cpp.s
 
 # Object files for target plx-test
 plx__test_OBJECTS = \
@@ -315,31 +315,31 @@ plx__test_OBJECTS = \
 # External object files for target plx-test
 plx__test_EXTERNAL_OBJECTS =
 
-/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/data/Array.test.cpp.o
-/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/data/HashTable.test.cpp.o
-/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/data/List.test.cpp.o
-/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/data/Queue.test.cpp.o
-/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/data/Triple.test.cpp.o
-/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/expr/Identifier.test.cpp.o
-/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/literal/Boolean.test.cpp.o
-/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/literal/Integer.test.cpp.o
-/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/literal/Nil.test.cpp.o
-/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/literal/String.test.cpp.o
-/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/literal/Symbol.test.cpp.o
-/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/object/Globals.test.cpp.o
-/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/object/Object.test.cpp.o
-/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/test/PlxTestFixture.cpp.o
-/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/test/test_main.cpp.o
-/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/test/TestUtils.cpp.o
-/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/build.make
-/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx-test: libplx_lib.a
-/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx-test: /usr/lib/x86_64-linux-gnu/libgtest.a
-/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX executable \"/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/bin/plx-test\""
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/data/Array.test.cpp.o
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/data/HashTable.test.cpp.o
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/data/List.test.cpp.o
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/data/Queue.test.cpp.o
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/data/Triple.test.cpp.o
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/expr/Identifier.test.cpp.o
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/literal/Boolean.test.cpp.o
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/literal/Integer.test.cpp.o
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/literal/Nil.test.cpp.o
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/literal/String.test.cpp.o
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/literal/Symbol.test.cpp.o
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/object/Globals.test.cpp.o
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/plx/object/Object.test.cpp.o
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/test/PlxTestFixture.cpp.o
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/test/test_main.cpp.o
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/test/TestUtils.cpp.o
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/build.make
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx-test: libplx_lib.a
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx-test: /usr/lib/x86_64-linux-gnu/libgtest.a
+/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx-test: CMakeFiles/plx-test.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX executable /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx-test"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/plx-test.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/plx-test.dir/build: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/\ CS497/wsu-cs497/bin/plx-test
+CMakeFiles/plx-test.dir/build: /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx-test
 .PHONY : CMakeFiles/plx-test.dir/build
 
 CMakeFiles/plx-test.dir/clean:
@@ -347,6 +347,6 @@ CMakeFiles/plx-test.dir/clean:
 .PHONY : CMakeFiles/plx-test.dir/clean
 
 CMakeFiles/plx-test.dir/depend:
-	cd "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx" "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/plx" "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build" "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build" "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/build/CMakeFiles/plx-test.dir/DependInfo.cmake" --color=$(COLOR)
+	cd /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/plx /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/build/CMakeFiles/plx-test.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/plx-test.dir/depend
 

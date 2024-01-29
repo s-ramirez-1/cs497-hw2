@@ -51,8 +51,8 @@ namespace PLX {
         return false;
         }
 
-        for (size_t i = 0; i < otherArray->_elems.size(); i++) {
-            if (this[i] != otherArray[i]) {
+        for (int t i = 0; i < otherArray->_elems.size(); i++) {
+            if (!(this->_elems[i]->equals(otherArray->_elems[i]))) {
             return false;
             }
          }

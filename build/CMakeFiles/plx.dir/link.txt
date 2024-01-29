@@ -1,1 +1,1 @@
-/usr/bin/clang++-14 CMakeFiles/plx.dir/plx/main.cpp.o -o "/mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/cs265/ CS497/wsu-cs497/bin/plx"  libplx_lib.a 
+/usr/bin/clang++-14 CMakeFiles/plx.dir/plx/main.cpp.o -o /mnt/c/Users/Marah/Documents/CS@WSU/thirdYear/spring24/wsu-cs497/bin/plx  libplx_lib.a 
