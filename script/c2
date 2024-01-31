@@ -1,0 +1,16 @@
+#!/bin/bash
+
+project_root=.
+src_dir=${project_root}/plx
+build_dir=${project_root}/build
+
+if [ "$1" == "rebuild" ]; then
+    rm -rf ${build_dir}
+fi
+
+if [[ ! -d ${build_dir} ]]; then
+    mkdir -p ${build_dir}
+    cmake -H${src_dir} -B${build_dir}
+fi
+
+cmake --build ${build_dir} -- -j4
